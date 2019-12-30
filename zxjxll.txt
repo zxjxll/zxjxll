@@ -1,4 +1,9 @@
 fjasdjf
 fadsf
 12345
+<<<<<<< HEAD
 67890
+=======
+wo shi one!
+ww
+tt
